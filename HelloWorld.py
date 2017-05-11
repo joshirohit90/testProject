@@ -73,5 +73,3 @@
 #
 # print("There is/are {0} segment(s)".format(count-1))
 
-str = ["a","b"]
-print (str[1])
